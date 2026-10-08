@@ -15,7 +15,7 @@ function App() {
       <section className="hero" id="home">
         <div>
           <p className="tag">LEARN • BUILD • AUTOMATE</p>
-          <h1>Learn DevOps<br />the Practical Way</h1>
+          <h1>Learn DevOps<br />the Practical Way ANd Manual Way</h1>
           <p className="description">
             Learn Git, GitHub, Docker, CI/CD and deployment
             through simple hands-on projects.
